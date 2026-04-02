@@ -105,3 +105,8 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+# Lab 0 - GitHub Classroom
+The objective is to learn how to use Git and GitHub.
+## Notes
+This is my first experience using GitHub Classroom.
